@@ -1,4 +1,4 @@
-# Sistema de Gerenciamento de Seleções de Futebol ⚽
+# Football Manager - Sistema de Gestão de Seleções ⚽
 
 Aplicação desktop em **Java (Swing)** para cadastro, edição, exclusão e listagem de
 **Jogadores**, **Seleções** e **Técnicos**, com persistência dos dados em arquivos de texto.
